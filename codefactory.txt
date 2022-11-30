@@ -1,5 +1,5 @@
 test 3 ver 3
 
-VERSION FINAL
+VERSION 5
 
-version final 4
+version final 5
